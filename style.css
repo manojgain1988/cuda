@@ -1,0 +1,105 @@
+.navbar{
+    background: #87509C;
+}
+.navbar-brand{
+   font-size: 35px;
+}
+         /* navigation part end     */
+
+
+           /* header part start     */
+header{
+    background: #87509C;
+}
+
+.btn:hover{
+    color: rgb(0, 0, 0);
+}
+.text{
+    font-size: 45px !important;
+    font-weight: 700;
+}
+           /* header part end    */
+
+
+
+  /* service part start    */
+
+.service{
+    background: #17C2A4;
+}
+
+.under_line{
+    width: 125px;
+    margin: auto;
+    height: 5px;
+    background: #969595;
+}
+.service img{
+    width: 100px;
+    height: 100px;
+}
+     /* service part end    */
+   
+
+     /* Team part start    */
+.team{
+     background: #E7F1F8;
+    }
+.team img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    }
+
+     /* Team part end    */
+
+     /*portfolio part start*/
+    .portfolio{
+        background: #FFDD99;
+    }
+    .portfolio img{
+        height: 350px;
+        width: 500px;
+        margin-left: 150px;
+    }
+    .portfolio .btn{
+        background: #17C2A4;
+        box-shadow: 0px 0px 4px #17C2A4;
+        margin: 30px 0;
+        padding: 15px;
+    }
+
+
+     /*portfolio part end */
+
+
+     /*about part start */
+    .about{
+        background: #D74680;
+    }
+    .about img{
+       height: 150px;
+       width: 180px;
+       border-radius: 50%;
+    }
+     /*about part end */
+
+
+     /*contact part start */
+    .feature{
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        height: 50px;
+        width: 80px;
+        font-size: 40px;
+    }
+    .contact{
+        background: #3C5499;
+    }
+    
+     /*contact part end */
+
+
+     
